@@ -5,4 +5,4 @@ edition = "2024"
 
 [dependencies]
 
-comp-a = { git = "https://github.com/antonbaliasnikov/comp-a.git", tag = "v0.1.0" }
+comp-a = { git = "https://github.com/antonbaliasnikov/comp-a.git", tag = "v0.2.0" }
