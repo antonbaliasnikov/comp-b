@@ -4,3 +4,5 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
+
+comp-a = { git = "https://github.com/antonbaliasnikov/comp-a.git", tag = "v0.1.0" }
